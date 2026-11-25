@@ -1,0 +1,16 @@
+{
+  "name": "Mój Katalog",
+  "packages": [
+    {
+      "titleId": "PPSA12345",
+      "title": "Watch Dogs 2",
+      "version": "1.00",
+      "downloadLinks": [
+        {
+          "name": "Serwer 1",
+          "url": "https://20-4.download.real-debrid.com/d/NOHAZCN3WZ45K/WATCH_DOGS.2_CUSA04294_v1.00_%5B4.00%5D_OPOISSO893.rar1"
+        }
+      ]
+    }
+  ]
+}
