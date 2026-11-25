@@ -12,5 +12,27 @@
         }
       ]
     }
+    {
+      "titleId": "PPSA12345",
+      "title": "Watch Dogs 2 update",
+      "version": "1.00",
+      "downloadLinks": [
+        {
+          "name": "Serwer 1",
+          "url": "https://23-4.download.real-debrid.com/d/XPRABWI6E5WXU/WATCH_DOGS.2_CUSA04294_v1.18_%5B4.00%5D_OPOISSO893.rar"
+        }
+      ]
+    }
+    {
+      "titleId": "PPSA12345",
+      "title": "Watch Dogs 2 dlc",
+      "version": "1.00",
+      "downloadLinks": [
+        {
+          "name": "Serwer 1",
+          "url": "https://128-4.download.real-debrid.com/d/XFGOMAICTCD4S/Watch%20Dogs%202%20Gold%20Edition%20ALL%20DLC%20PKG%20PS4.rar"
+        }
+      ]
+    }
   ]
 }
